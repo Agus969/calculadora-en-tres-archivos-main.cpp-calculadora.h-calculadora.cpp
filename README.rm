@@ -1,0 +1,4 @@
+// Hola esta es una claculadora basica dividida en tres archivos 
+Para compilar usar comando :  g++ main.cpp calculadora.cpp -o calculadora
+Para ejecutarla utilizar comando :  ./calculadora
+Un saludo cordial. 
